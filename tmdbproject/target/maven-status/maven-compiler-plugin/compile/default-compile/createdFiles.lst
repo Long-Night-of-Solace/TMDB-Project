@@ -1,0 +1,6 @@
+com\tmdbproject\model\Movie.class
+com\tmdbproject\service\MovieService.class
+com\tmdbproject\MovieController.class
+com\tmdbproject\repository\MovieRepository.class
+com\tmdbproject\tmdbprojectapplication.class
+com\tmdbproject\model\QMovie.class
